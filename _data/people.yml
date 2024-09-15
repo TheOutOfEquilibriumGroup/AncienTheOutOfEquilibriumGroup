@@ -96,9 +96,9 @@ ugrad-Ginelle:
     role: ugrad
     image: /img/people/Ginelle.jpeg
 
-#ugrad-d:
- #   display_name: "Ugrad D"
-  #  role: ugrad
+ugrad-Hoang:
+    display_name: "Hoang Truc Kim"
+    role: ugrad
 
 #ugrad-e:
  #   display_name: "Ugrad E"
