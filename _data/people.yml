@@ -40,6 +40,11 @@ grad-opeyemi:
     role: grad
     image: /img/people/Screenshot.jpeg
 
+grad-jack:
+    display_name: "Jack"
+    role: grad
+    image: /img/people/Screenshot.jpeg
+
 
 #grad-b:
  #   display_name: "Graduate Student B With Long Name"
@@ -86,9 +91,10 @@ ugrad-Jerison:
     image: /img/people/desgranges_caroline_02.jpeg
 
 
-#ugrad-c:
- #   display_name: "Ugrad C"
-  #  role: ugrad
+ugrad-Ginelle:
+    display_name: "Ginelle Cote"
+    role: ugrad
+    image: /img/people/Ginelle.jpeg
 
 #ugrad-d:
  #   display_name: "Ugrad D"
